@@ -3,3 +3,6 @@ Creat a .git file. This file stores metadata of repository. No commit is trigger
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is the middleman between working directory and the repository. It gives more control about which file could be commited.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Git add one modified file once at a time
