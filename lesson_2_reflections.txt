@@ -1,0 +1,2 @@
+what happens when you initialize a repository? Why do you need to do it?
+Creat a .git file. This file stores metadata of repository. No commit is triggered.
