@@ -1,2 +1,5 @@
 what happens when you initialize a repository? Why do you need to do it?
 Creat a .git file. This file stores metadata of repository. No commit is triggered.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is the middleman between working directory and the repository. It gives more control about which file could be commited.
